@@ -164,3 +164,5 @@ Happy Mapping! 😃
 - [Quickstarted guide on Windows](https://slimgis.com/documents/getting-started-webapi-dnc-win)
 - [Map Kit WebAPI for ASP.NET Core introduction](https://slimgis.com/products/webapi-dnc)
 - [Map Kit WebAPI introduction](https://slimgis.com/products/webapi)
+- [Setup .NET Core](https://github.com/dotnet/core/blob/master/release-notes/download-archives/rc4-download.md)
+- [CoreCompat Project](https://github.com/CoreCompat/CoreCompat)
