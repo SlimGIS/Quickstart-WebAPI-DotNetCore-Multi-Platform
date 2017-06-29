@@ -1,6 +1,6 @@
 # Quickstart guide to build Web Map APP with ASP.NET Core on macOS and Linux
 
-In the [previous thread](https://github.com/SlimGIS/Quickstart-WebAPI-DotNetCore), we went over the entire flow of building a web appliction with ASP.NET Core on Visual Studio Code which is a light-weight and cross-platform IDE provided by Microsoft. We also love Visual Studio IDE, but you know, it is kind of heavy-weight IDE to build such simple demo. So this time, we will make challenge again to build a web app with our WebAPI for AspNetCore and Visual Studio Code on macOS and Linux.
+In the [previous thread](https://slimgis.com/documents/getting-started-webapi-dnc-win), we went over the entire flow of building a web appliction with ASP.NET Core on Visual Studio Code which is a light-weight and cross-platform IDE provided by Microsoft. We also love Visual Studio IDE, but you know, it is kind of heavy-weight IDE to build such simple demo. So this time, we will make challenge again to build a web app with our WebAPI for AspNetCore and Visual Studio Code on macOS and Linux.
 
 Our sample is build with .Net Core 1.1 with SDK RC4 build. Please make sure we have in the same line. Please refer [this article](https://github.com/dotnet/core/blob/master/release-notes/download-archives/rc4-download.md) to get it ready.
 
@@ -155,4 +155,12 @@ dotnet run
 
 ![quickstart-webapi-linux-final](http://p1.bpimg.com/567571/dada08f63fd42bdd.png)
 
-Now we have made our first web api running with ASP.NET Core framework. It is so compatible with the project we have done on Windows. Thanks for reading.😃
+Now we have made our first web api running with ASP.NET Core framework. It is so compatible with the project we have done on Windows. 
+
+Happy Mapping! 😃
+
+## Related Resources
+- [Source code](https://github.com/SlimGIS/Quickstart-WebAPI-DotNetCore-Multi-Platform)
+- [Quickstarted guide on Windows](https://slimgis.com/documents/getting-started-webapi-dnc-win)
+- [Map Kit WebAPI for ASP.NET Core introduction](https://slimgis.com/products/webapi-dnc)
+- [Map Kit WebAPI introduction](https://slimgis.com/products/webapi)
