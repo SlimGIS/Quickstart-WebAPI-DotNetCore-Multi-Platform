@@ -1,6 +1,8 @@
-# Quickstart guide to build Web Map APP with ASP.NET Core on macOS and Linux
+Keywords:   the beginners guide, map services, first map, web map, linux map
 
-In the [previous thread](https://slimgis.com/documents/getting-started-webapi-dnc-win), we went over the entire flow of building a web appliction with ASP.NET Core on Visual Studio Code which is a light-weight and cross-platform IDE provided by Microsoft. We also love Visual Studio IDE, but you know, it is kind of heavy-weight IDE to build such simple demo. So this time, we will make challenge again to build a web app with our WebAPI for AspNetCore and Visual Studio Code on macOS and Linux.
+# Getting Started Guide for Map Kit WebAPI (IDE: VSCode)
+
+<desc>This is the beginners guide to walk you through the steps to build a web gis application with Visual Studio Code on Linux and macOS. With the power of ASP.NET Core WebAPI, it allows to host the map services on linux and macOS.</desc>
 
 Our sample is build with .Net Core 1.1 with SDK RC4 build. Please make sure we have in the same line. Please refer [this article](https://github.com/dotnet/core/blob/master/release-notes/download-archives/rc4-download.md) to get it ready.
 
