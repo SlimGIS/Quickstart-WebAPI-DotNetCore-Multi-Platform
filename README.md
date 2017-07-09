@@ -1,6 +1,6 @@
 Keywords:   the beginners guide, map services, first map, web map, linux map
 
-# Getting Started Guide for Map Kit WebAPI (IDE: VSCode)
+# Build your First Web Map with VSCode
 
 <desc>This is the beginners guide to walk you through the steps to build a web gis application with Visual Studio Code on Linux and macOS. With the power of ASP.NET Core WebAPI, it allows to host the map services on linux and macOS.</desc>
 
